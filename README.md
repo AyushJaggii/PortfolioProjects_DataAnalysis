@@ -4,6 +4,10 @@ This repository contains a collection of data analysis projects completed by Ayu
 
 ## Table of Contents
 
+##### -> Customer Analysis
+The customer analysis project conducted involves the cleaning, preprocessing, and visualization of a dataset using Jupyter and Python, followed by the creation of a comprehensive dashboard using Tableau. The goal of this project is to gain valuable insights and identify significant trends related to customer behavior, preferences, and engagement.
+
+
 ##### -> Amazon Web Scraper
 In this Project, Python and a web scraping framework, Beautiful Soup is used. The data extracted includes product information, pricing, reviews, and ratings.
 The data is then stored in a Csv File. The goal of the project is to collect data for analysis, research, or price comparison.
